@@ -1,0 +1,8 @@
+{
+  "name": "Aprendamos a estudiar julio",
+  "description": "Aplicación de acompañamiento evaluativo para los estudiantes de 9o Grado B del Centro Escolar Napoleón Ríos con registro de evidencias en Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
